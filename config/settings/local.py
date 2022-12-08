@@ -11,7 +11,7 @@ SECRET_KEY = env(
     default="SuElL9YCynZLMSNjHiDh4D6a6rvj3rMKakHjmsWelnvjwe7N5ZQdPGXeYC2URzKZ",
 )
 # https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
-ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1", "homeerp.wooster.xyz"]
 
 # CACHES
 # ------------------------------------------------------------------------------
